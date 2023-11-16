@@ -1,0 +1,105 @@
+@charset "UTF-8";
+body {
+    background-color: cornsilk;
+}
+
+table{
+	border-collapse: collapse;
+}
+.centrado{
+	text-align: center;
+}
+
+.naranja{
+	background-color: darkorange;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.amarillo{
+	background-color: yellow;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.amarilloclaro {
+	background-color: lightgoldenrodyellow;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blanco {
+	background-color: white;
+}
+
+.marronclaro{
+	background-color: darksalmon;
+}
+
+.negro{
+	background-color: black;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blancocompleto {
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.blancolaterales {
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-spacing: 0;
+}
+
+.marronclarobordes {
+	background-color: darksalmon;
+	border-right: 1px solid;
+	border-left: 1px solid;
+}
+.po{
+	color:white;
+}
+.amarilloborde{
+	background-color: yellow;
+	border-bottom: 10px;
+	border-left: 10px;
+	border-right: 10px;
+	border-top: 10px;
+}
+.blancoderechaizquierdaabajo{
+	background-color: white;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+	border-spacing: 0;
+}
+
+.marronclaroderechaizquierdaabajo{
+	background-color: darksalmon;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+}
+
+.bordes{
+	border-bottom: 10px;
+}
